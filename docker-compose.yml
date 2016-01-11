@@ -1,0 +1,4 @@
+nginx:
+        image: 192.168.10.40:5000/nginx
+        ports:
+                - 80:80
